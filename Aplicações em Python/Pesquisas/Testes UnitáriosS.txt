@@ -1,0 +1,4 @@
+Testes unitários verificam uma parte específica do código, para saber se está funcionando da maneira correta. 
+Existem várias bibliotecas para fazer testes unitários, como o pytest, unittest e doctest.
+Vou falar um pouco mais do pytest, basicamente, precisamos criar um arquivo de teste e importar a função a ser testada.
+Refêrencia: https://medium.com/data-hackers/testes-unit%C3%A1rios-para-profissionais-de-dados-com-pytest-o-guia-definitivo-5ac05f4ef866

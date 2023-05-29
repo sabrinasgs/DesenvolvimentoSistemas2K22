@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\bin\Debug\net6.0\MeuPrimeiroProjeto.exe
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\bin\Debug\net6.0\MeuPrimeiroProjeto.deps.json
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\bin\Debug\net6.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\bin\Debug\net6.0\MeuPrimeiroProjeto.dll
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\bin\Debug\net6.0\MeuPrimeiroProjeto.pdb
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.dll
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.pdb
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\C#\MeuPrimeiroProjeto\obj\Debug\net6.0\ref\MeuPrimeiroProjeto.dll

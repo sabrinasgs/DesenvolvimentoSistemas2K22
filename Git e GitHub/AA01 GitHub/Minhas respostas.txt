@@ -1,0 +1,11 @@
+Perguntas: 
+1 - O que é um repositório?
+2 - Qual a diferença entre Git e GitHub?
+3 - Porque utilizar controle de versão para os arquivos de um projeto em desenvolvimento de software?
+4 - Quais vantagens você enxerga no Git? Você utilizaria em seu projeto? 
+Respostas:
+1 - Um repositório é para armazenar arquivos. 
+2 - Git é uma ferramenta que lhe permite fazer controle de versão. 
+GitHub é como se fosse uma rede social dos progamadores. 
+3 - Usar controle de versão para ajudar no desenvolvimento do projeto, para todos saberem quem fez o commit e para ter um aacesso melhor ao código de cada um.
+4 - Sim, utilizaria! As vantagens que eu enxergo é poder me aproximar mais de progamações e ter algo para apresentar no meu curriculo futuramente.

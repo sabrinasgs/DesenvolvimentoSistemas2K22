@@ -1,0 +1,15 @@
+Document Object Model ou simplismente DOM, é utilizado para representar sua página web.
+É muito mais fácil trabalhar com DOM do que diretamente com o CSS ou HTML.
+
+Document - Esse é o responsável por conceder acesso ao javascript, para que o mesmo consiga obter dados e manipular a página web.
+
+documentElement - captura o elemento raiz <html>.
+getElementById - busca elementos da página web através do id.
+createElement - cria um novo elemento na página.
+createAttribute - cria um novo atributo na página.
+createTextNode - cria um novo texto na página.
+appendChild - insere um elemento filho.
+removeChild - remove um elemento filho.
+parentNode - retorna o pai.
+
+Conteúdo de Larissa (@laris.code) :3
